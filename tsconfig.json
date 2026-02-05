@@ -30,3 +30,7 @@
     "node_modules"
   ]
 }
+"baseUrl": ".",
+"paths": {
+  "@/*": ["./*"]
+}
